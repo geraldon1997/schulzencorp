@@ -27,7 +27,7 @@
                                         <ul>
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="services.php">Services</a></li>
-                                            <li><a href="#">Projects</a></li>
+                                            <li><a href="project.php">Projects</a></li>
                                             <li><a href="contact.php">Contact Us</a></li>
                                         </ul>
                                     </div>
@@ -40,9 +40,10 @@
                                         <div class="footer-pera">
                                             <p class="info1">25476 friendship Road C, Daphne,AL 36526 United States</p>
                                         </div>
-                                        <ul>
-                                            <li><a href="tel:+2059523823">Phone: + (205) 952-3823</a></li>
-                                            <li><a href="tel:+17609336329">tel: +1 (760)-933-6329</a></li>
+                                        <ul> 
+                                            <li><a href="tel:+12059523823" >Alabama +1 205 952-3823</a></li>
+                                            <li><a href="tel:+16614382672" >Marketing +1 661 438-2672</a></li>
+                                            <li><a href="tel:+447451273756" >Uk Line +44 7451 273756</a></li>
                                         </ul>
                                     </div>
                                 </div>

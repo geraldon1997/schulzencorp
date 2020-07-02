@@ -54,8 +54,9 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3><a href="tel:+2059523823" style="color:black;">+ (205) 952-3823</a></h3>
-                                <h3><a href="tel:+17609336329" style="color:black;">+ 1 (760)-933-6329</a></h3>
+                                <h3><a href="tel:+12059523823" >Alabama +1 205 952-3823</a></h3>
+                                <h3><a href="tel:+16614382672" >Marketing +1 661 438-2672</a></h3>
+                                <h3><a href="tel:+447451273756" >Uk Line +44 7451 273756</a></h3>
                                 <p>Mon to sat 8am to 5:30pm</p>
                             </div>
                         </div>
@@ -63,6 +64,7 @@
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
                                 <h3><a href="mailto:louisschulze@schulzensweldingcorp.com" style="color:black;">louisschulze@schulzensweldingcorp.com</a></h3>
+                                <h3><a href="mailto:marketing@schulzensweldingcorp.com" style="color:black;">marketing@schulzensweldingcorp.com</a></h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
