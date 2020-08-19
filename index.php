@@ -669,7 +669,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/ceo.jpg" alt="" height="400">
+                                <img src="assets/img/team/ceo1.jpg" alt="" height="350">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
@@ -680,7 +680,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="//s2.q4cdn.com/231488844/files/images/management/2019/mitchell_tom_2019-4-sm.jpg" alt="" height="400">
+                                <img src="//s2.q4cdn.com/231488844/files/images/management/2019/mitchell_tom_2019-4-sm.jpg" alt="" height="350">
                             </div>
                             <div class="team-caption">
                                 <span>Project Manager</span>
@@ -691,7 +691,29 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="//s2.q4cdn.com/231488844/files/images/management/2016/keeler_glenn46.jpg" alt="" height="400">
+                                <img src="assets/img/team/WhatsApp Image 2020-08-16 at 1.40.03 PM (1).jpeg" alt="" height="350">
+                            </div>
+                            <div class="team-caption">
+                                <span>Project Consultant</span>
+                                <h3>Fred Taylor</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/WhatsApp Image 2020-08-19 at 4.24.59 AM.jpeg" alt="" height="350">
+                            </div>
+                            <div class="team-caption">
+                                <span>Structural Engineer</span>
+                                <h3>Li Qiang</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="//s2.q4cdn.com/231488844/files/images/management/2016/keeler_glenn46.jpg" alt="" height="350">
                             </div>
                             <div class="team-caption">
                                 <span>Public Relations Officer</span>
